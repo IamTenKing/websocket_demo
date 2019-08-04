@@ -1,2 +1,9 @@
 server:
   port: 8081
+
+
+
+flash:
+  policy:
+    server:
+      port: 843
